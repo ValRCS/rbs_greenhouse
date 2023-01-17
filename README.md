@@ -16,7 +16,7 @@ Data science is like being a detective, but instead of solving crimes, you're un
 You'll use all kinds of cool tools and techniques from statistics, computer science, artificial intelligence and your own expertise to explore data from all sorts of sources. And the best part is you get to use all of that information to make predictions and decisions that can change the world! 
 
 
-*Data Science definition*: a field that uses techniques from statistics, computer science, and domain expertise to extract insights and knowledge from data.
+**Data Science definition**: a field that uses techniques from statistics, computer science, and domain expertise to extract insights and knowledge from data.
 
 ---
 
@@ -44,3 +44,21 @@ You'll use all kinds of cool tools and techniques from statistics, computer scie
 The above list is just small sampling, there are many more!
   
 ---
+
+## Difference between Data Scientist and Data Engineer
+
+Data scientists and data engineers are both important roles in the field of data science, but they have different responsibilities and focus on different aspects of the data pipeline.
+
+Data scientists are responsible for analyzing and interpreting data, and using that information to make predictions or decisions. They use statistical and machine learning techniques to build predictive models, and they often work closely with stakeholders to understand their needs and communicate the results of their analysis.
+
+Data engineers, on the other hand, are responsible for the technical infrastructure and tools that support data science work. They design, build and maintain the systems that collect, store, and process data, and they ensure that data is accurate, reliable, and easily accessible to data scientists and other stakeholders. They work with technologies like Hadoop, Spark, and SQL databases to extract, transform and load the data.
+
+Both roles often overlap.
+
+---
+
+## Want to get started but can't wait until September?
+
+There are many free or inexpensive online courses that can give you a headstart.
+
+[Mini Data Science course by Google](https://learndigital.withgoogle.com/digitalworkshop-eu/course/data-science-with-python)
