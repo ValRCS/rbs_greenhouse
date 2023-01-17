@@ -13,8 +13,10 @@ RBS Greenhouse is a 3-week program preparing ambitious and motivated high school
 * The process includes:
   1. Collecting data
   2. Cleaning and preparing the data
-  3. Analyzing the data
-  4. Using the insights gained to make decisions or predictions
+  3. Analyzing the data - Exploratory Data Analysis - Visualization
+  4. Using the insights gained to make decisions or predictions - building a model
+  5. Deployment - "shipping" - making an app/program/
+  6. Monitoring for results / changes / improvements -> Back to Squares (1,2,3,4,5)
   
 * Applications:
   * Predicting product preferences using data from social media
